@@ -1,7 +1,9 @@
 🐾 SOSANIMALES
+
 SOSANIMALES es una plataforma web diseñada para centralizar y agilizar la búsqueda de animales desaparecidos. El proyecto surge de la necesidad de ofrecer una herramienta eficiente para que los dueños de mascotas puedan generar alertas rápidas y la comunidad pueda colaborar en su hallazgo.
 
 🚀 Descripción del Proyecto
+
 La aplicación gestiona la pérdida de mascotas a través de dos niveles de acceso:
 
 - Usuario Registrado: Tiene control total sobre su perfil. Puede registrar múltiples mascotas, generar avisos de pérdida específicos, editar la información en tiempo real y eliminar los avisos una vez el animal ha sido encontrado.
